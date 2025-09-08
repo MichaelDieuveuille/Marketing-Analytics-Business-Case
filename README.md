@@ -1,4 +1,4 @@
-# Marketing-Analytics-Business-Case
+# Database-Cleaning-Analysis-For-ShopEasy
 ShopEasy, an online retail business, is facing reduced customer conversion and engagement rates despite launching several new online marketing campaigns. They are reaching out to me to help conduct a cleaning analysis for their data to help organize their databases.
 
 Key Perfomance Indicators (KPIS) :
